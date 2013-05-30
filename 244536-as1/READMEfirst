@@ -1,0 +1,12 @@
+There're three folders. morsetranscoder contains version1 of the assignment; exec contains version2 of the assignment with exec() code replacement implemented; tests contains test programs and test diaries. 
+
+Please check the morsetranscoder folder first, then the exec folder(it takes 5 minutes to read teh exec() version, only minor changes made). Please do check the test diary. if interested(haha I doubt it), also check the tests programs
+
+Learning diary are divided into three parts. 
+one for the assignment 1 version1, can be found in folder morsetranscoder, a user guide for version1 is also included there;
+one for version2, the exec() version, can be found in folder exec, the diary also contains short user guide;
+one for test works, can be found in folder test;
+
+all diaries and guides are also included in the folder Docs
+
+

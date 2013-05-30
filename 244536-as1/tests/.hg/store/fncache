@@ -1,0 +1,12 @@
+data/tt.i
+data/IPCpipe.c.i
+data/masktest_sigwait.c.i
+data/masktest.i
+data/myshell.i
+data/testdiary.i
+data/sigtest.i
+data/masktest.c.i
+data/testsig.c.i
+data/pipetest.i
+data/sigwaittest.i
+data/masktest_sigwait1.c.i
